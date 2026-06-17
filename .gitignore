@@ -1,0 +1,26 @@
+# .gitignore
+
+.vs/
+out/
+build/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.pdb
+*.ilk
+*.obj
+*.tlog/
+BuildOutput/
+AppPackages/
+BundleArtifacts/
+package.appxmanifest.bak
+vcpkg_installed/
